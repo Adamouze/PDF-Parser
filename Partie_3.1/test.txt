@@ -1,0 +1,13 @@
+null
+true
+false
+123
+-456
+78.9
+(Example String)
+<4E6F76 61 73>
+/Name
+1 0 R
+[null true 123 45.67 (String in List) /Name]
+<< /Name 78>>
+<< /Name1 123 /Name2 (String) /Name3 [true 123 (String)] >>

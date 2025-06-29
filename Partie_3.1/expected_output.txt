@@ -1,0 +1,26 @@
+Valid PDF object: null
+Valid PDF object: boolean (true)
+Valid PDF object: boolean (false)
+Valid PDF object: signed integer (123)
+Valid PDF object: signed integer (-456)
+Valid PDF object: signed real (78.900000)
+Valid PDF object: classic string (Example String)
+Valid PDF object: hexadecimal string (<4E6F76 61 73>)
+Valid PDF object: name (/Name)
+Valid PDF object: reference (1 0 R)
+Valid PDF object: null
+Valid PDF object: boolean (true)
+Valid PDF object: signed integer (123)
+Valid PDF object: signed real (45.670000)
+Valid PDF object: classic string (String in List)
+Valid PDF object: name (/Name)
+Valid PDF object: list
+Valid PDF object: signed integer (78)
+Valid PDF object: dictionary
+Valid PDF object: signed integer (123)
+Valid PDF object: classic string (String)
+Valid PDF object: boolean (true)
+Valid PDF object: signed integer (123)
+Valid PDF object: classic string (String)
+Valid PDF object: list
+Valid PDF object: dictionary
